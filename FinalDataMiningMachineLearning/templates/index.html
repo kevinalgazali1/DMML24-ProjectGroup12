@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tweet Sentiment Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Tweet Sentiment Prediction</h1>
+        <h2>Positive, Negative, Or Neutral?</h2>
+        <form action="/" method="post">
+            <textarea name="text" rows="4" cols="50" placeholder="Please Input Your Tweet"></textarea><br>
+            <button type="submit">Predict</button>
+        </form>
+        <div class="result">
+            {% if prediction is not none %}
+                <h2>Tweet Text: {{ text }}</h2>
+                <h2>Sentiment: {{ prediction }}</h2>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
