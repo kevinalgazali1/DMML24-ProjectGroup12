@@ -8,4 +8,4 @@
 #### [Link Colab](https://colab.research.google.com/drive/1-jG79iEHCnN22bRbTDorYJ5gRTOLdmSe)
 #### [Kanban Board](https://github.com/users/kevinalgazali1/projects/1)
 #### [Link Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset)
-#### [Link Laporan](
+#### [Link Laporan](https://docs.google.com/document/d/1gcclhb34oQt556k227yi-dneZ5yC5wqfcZtKk-xuYvo/edit?usp=sharing)
