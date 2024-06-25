@@ -1,20 +1,20 @@
 body {
-    background-image: url('../images/bgtweet.jpeg');
+    background-image: url('../images/bgtweett.jpeg');
     background-size: cover;
     font-family: Arial, sans-serif;
     color: #333;
 }
 
 .container {
-    background-color: #f8c8dc;
+    background: linear-gradient(to bottom, blue, rgb(15, 178, 178));
     max-width: 600px;
     margin: 50px auto;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
+    border: 2px solid black; /* Menambahkan pinggiran putih */
 }
-
 h1 {
     font-size: 2.5em;
     color: #000;
@@ -36,7 +36,7 @@ textarea {
     border-radius: 5px;
     margin-bottom: 10px;
     font-size: 1em;
-    background-color: #ffb6c1;
+    background-color: #22253c;
 }
 
 button {

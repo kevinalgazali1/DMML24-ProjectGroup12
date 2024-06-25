@@ -7,18 +7,24 @@
 </head>
 <body>
     <div class="container">
-        <h1>Tweet Sentiment Prediction</h1>
-        <h2>Positive, Negative, Or Neutral?</h2>
+        <h1 style="font-family: 'Montserrat', sans-serif;">Tweet Sentiment Prediction</h1>
+        <h2 style="font-family: Arial, sans-serif;"><span style="color:greenyellow">Positive</span>, <span style="color:red;">Negative</span>, <span style="color: whitesmoke;">Or Neutral?</span></h2>
+       
         <form action="/" method="post">
-            <textarea name="text" rows="4" cols="50" placeholder="Please Input Your Tweet"></textarea><br>
-            <button type="submit">Predict</button>
+            <textarea name="text" rows="6" cols="50" placeholder="Please Input Your Tweet In English" style="font-size: 14px; color: white;"></textarea><br>
+            <button type="submit" style="background-color: blue; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 22px; font-family: 'Comic Sans MS', cursive, sans-serif; margin: 4px 2px; cursor: pointer; border-radius: 12px; border: 2px solid black;">Predict</button>
         </form>
-        <div class="result">
-            {% if prediction is not none %}
-                <h2>Tweet Text: {{ text }}</h2>
-                <h2>Sentiment: {{ prediction }}</h2>
-            {% endif %}
-        </div>
+        {% if prediction is not none %}
+            <h2 style="text-align: left; padding-left: 40px; padding-right: 20px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Tweet : {{ text }}</h2>
+            <div class="result" style="display: flex; justify-content: space-between; align-items: center; padding: 0 40px;">
+                <div>
+                    <h2 name="sent">Sentiment : <span style="{% if prediction == 'negative' %}color:red;{% elif prediction == 'positive' %}color:greenyellow;{% elif prediction == 'neutral' %}color:whitesmoke;{% endif %}">{{ prediction }}</span></h2>
+                </div>
+                <div>
+                    <img src="{% if prediction == 'negative' %}{{ url_for('static', filename='images/negative.jpeg') }}{% elif prediction == 'positive' %}{{ url_for('static', filename='images/positive.jpeg') }}{% elif prediction == 'neutral' %}{{ url_for('static', filename='images/neutral.jpeg') }}{% endif %}" alt="Gambar Sentimen" style="width: 250px; height: 250px;">
+                </div>
+            </div>
+        {% endif %}
     </div>
 </body>
 </html>
