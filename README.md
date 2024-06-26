@@ -17,6 +17,16 @@
 ## Structure
 
 - 📦FinalDataMiningMachineLearning
+-  ┣ 📂assets
+-  ┃ ┣ 📂gambar_report
+-  ┃ ┃ ┣ 📜Screenshot 2024-06-14 185345.png
+-  ┃ ┃ ┣ 📜Screenshot 2024-06-21 185933.png
+-  ┃ ┃ ┗ 📜Screenshot 2024-06-25 005833.png
+-  ┃ ┗ 📂gambar_tampilan_web
+-  ┃ ┃ ┣ 📜WhatsApp Image 2024-06-25 at 00.33.02.jpeg
+-  ┃ ┃ ┣ 📜WhatsApp Image 2024-06-25 at 00.33.25.jpeg
+-  ┃ ┃ ┣ 📜WhatsApp Image 2024-06-25 at 00.33.41.jpeg
+-  ┃ ┃ ┗ 📜WhatsApp Image 2024-06-25 at 00.33.57.jpeg
 -  ┣ 📂static
 -  ┃ ┣ 📂css
 -  ┃ ┃ ┗ 📜styles.css
