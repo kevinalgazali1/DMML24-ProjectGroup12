@@ -16,24 +16,38 @@
 
 ## Structure
 
-- c:/Kampus/Semester 4/Coding/DMML/DMML24-ProjectGroup12
--  ├─ FinalDataMiningMachineLearning/
--  │  ├─ static/
--  │  │  ├─ css/
--  │  │  │  └─ styles.css
--  │  │  └─ images/
--  │  │     ├─ bgtweett.jpeg
--  │  │     ├─ negative.jpeg
--  │  │     ├─ neutral.jpeg
--  │  │     └─ positive.jpeg
--  │  ├─ templates/
--  │  │  └─ index.html
--  │  ├─ app.py
--  │  ├─ sentiment_model.pkl
--  │  ├─ test_bersih.csv
--  │  ├─ train_mode.py
--  │  └─ TUGAS_DMML.ipynb
--  └─ README.md
+- 📦FinalDataMiningMachineLearning
+-  ┣ 📂static
+-  ┃ ┣ 📂css
+-  ┃ ┃ ┗ 📜styles.css
+-  ┃ ┗ 📂images
+-  ┃ ┃ ┣ 📜bgtweett.jpeg
+-  ┃ ┃ ┣ 📜negative.jpeg
+-  ┃ ┃ ┣ 📜neutral.jpeg
+-  ┃ ┃ ┗ 📜positive.jpeg
+-  ┣ 📂templates
+-  ┃ ┗ 📜index.html
+-  ┣ 📜app.py
+-  ┣ 📜sentiment_model.pkl
+-  ┣ 📜test_bersih.csv
+-  ┣ 📜train_mode.py
+-  ┗ 📜TUGAS_DMML.ipynb
 
 ## Report 1
 
+![alt text](<Screenshot 2024-06-14 185345.png>)
+
+## Report 2
+
+![alt text](<Screenshot 2024-06-21 185933.png>)
+
+## Report 3
+
+![alt text](<Screenshot 2024-06-25 005833.png>)
+
+## Tampilan Aplikasi
+
+![alt text](<WhatsApp Image 2024-06-25 at 00.33.02.jpeg>)
+![alt text](<WhatsApp Image 2024-06-25 at 00.33.25.jpeg>)
+![alt text](<WhatsApp Image 2024-06-25 at 00.33.41.jpeg>)
+![alt text](<WhatsApp Image 2024-06-25 at 00.33.57.jpeg>)
