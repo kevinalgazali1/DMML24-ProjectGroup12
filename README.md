@@ -1,6 +1,6 @@
 # Analysis Tweet Sentiment
 
-## Kelompok 9
+## Kelompok 12
 
 - Kevin Al Gazali H071221060
 - Ammar Tyo Pasaribu H071221079
