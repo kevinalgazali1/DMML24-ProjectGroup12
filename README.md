@@ -35,19 +35,20 @@
 
 ## Report 1
 
-![alt text](<Screenshot 2024-06-14 185345.png>)
+![alt text](</FinalDataMiningMachineLearning/assets/gambar_report/Screenshot 2024-06-14 185345.png>)
+- <img src=>
 
 ## Report 2
 
-![alt text](<Screenshot 2024-06-21 185933.png>)
+![alt text](</FinalDataMiningMachineLearning/assets/gambar_report/Screenshot 2024-06-21 185933.png>)
 
 ## Report 3
 
-![alt text](<Screenshot 2024-06-25 005833.png>)
+![alt text](</FinalDataMiningMachineLearning/assets/gambar_report/Screenshot 2024-06-25 005833.png>)
 
 ## Tampilan Aplikasi
 
-![alt text](<WhatsApp Image 2024-06-25 at 00.33.02.jpeg>)
-![alt text](<WhatsApp Image 2024-06-25 at 00.33.25.jpeg>)
-![alt text](<WhatsApp Image 2024-06-25 at 00.33.41.jpeg>)
-![alt text](<WhatsApp Image 2024-06-25 at 00.33.57.jpeg>)
+![alt text](</FinalDataMiningMachineLearning/assets/gambar_tampilan_web/WhatsApp Image 2024-06-25 at 00.33.02.jpeg>)
+![alt text](</FinalDataMiningMachineLearning/assets/gambar_tampilan_web/WhatsApp Image 2024-06-25 at 00.33.25.jpeg>)
+![alt text](</FinalDataMiningMachineLearning/assets/gambar_tampilan_web/WhatsApp Image 2024-06-25 at 00.33.41.jpeg>)
+![alt text](</FinalDataMiningMachineLearning/assets/gambar_tampilan_web/WhatsApp Image 2024-06-25 at 00.33.57.jpeg>)
