@@ -10,15 +10,16 @@
 ## Link Report
 
 - [Link Colab](https://colab.research.google.com/drive/1-jG79iEHCnN22bRbTDorYJ5gRTOLdmSe)
-  sebelum melakukan run pada colab di perlukan untuk memasukan file csv pada direktori file yang ada di colab
+####  sebelum melakukan run pada colab di perlukan untuk memasukan file csv pada direktori file yang ada di colab
   
 - [Kanban Board](https://github.com/users/kevinalgazali1/projects/1)
-  Kanban board merupakan table untuk pemetaan todo, doing, dan done agar project lebih mudah di kerjakan dan terstruktur
+####  Kanban board merupakan table untuk pemetaan todo, doing, dan done agar project lebih mudah di kerjakan dan terstruktur
   
 - [Link Dataset](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset)
-  Dataset yang di gunakan merupakan dataset yang berfokus pada sentimen analisis tweet
+####  Dataset yang di gunakan merupakan dataset yang berfokus pada sentimen analisis tweet
   
-- [Link Laporan]()
+- [Link Laporan](https://docs.google.com/document/d/1sfpfe2dZdgBXsn8jVN7lCIzozoCF-8S92L5XYt9gL-I/edit)
+#### Laporan akhir tentang project
 
 ## Structure
 
